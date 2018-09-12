@@ -1,7 +1,6 @@
 # Survey Pro
 This project is a my final project to get grade on Coursera. This project was referenced a template source code at: https://github.com/danielfsousa/express-rest-es2017-boilerplate
-But I have updated this project for my purpose and everyone can get it to reference. Good luck everyone!
-Boilerplate/Generator/Starter Project for building RESTful APIs and microservices using Node.js, Express and MongoDB
+But I have updated this project for my learning purpose and everyone can get it to reference. Thanks owner of the source code boilerplate & Good luck everyone!
 
 ## Features
 
