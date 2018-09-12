@@ -35,8 +35,8 @@ But I have updated this project for my learning purpose and everyone can get it 
 Clone the repo and make it yours:
 
 ```bash
-git clone --depth 1 https://github.com/danielfsousa/express-rest-es2017-boilerplate
-cd express-rest-es2017-boilerplate
+git clone --depth 1 https://github.com/thphuoc/surveypro
+cd surveypro
 rm -rf .git
 ```
 
@@ -160,8 +160,7 @@ sh ./deploy.sh
 
 ## Inspirations
 
- - [KunalKapadia/express-mongoose-es6-rest-api](https://github.com/KunalKapadia/express-mongoose-es6-rest-api)
- - [diegohaz/rest](https://github.com/diegohaz/rest)
+ - https://github.com/danielfsousa/express-rest-es2017-boilerplate
 
 ## License
 
